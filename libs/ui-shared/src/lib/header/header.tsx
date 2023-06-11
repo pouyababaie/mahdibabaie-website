@@ -1,4 +1,3 @@
-import styles from './header.module.scss';
 import * as React from 'react';
 
 /* eslint-disable-next-line */
